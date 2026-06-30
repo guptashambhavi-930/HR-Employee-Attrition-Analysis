@@ -80,11 +80,23 @@ HR EMPLOYEES ANALYTICS
 
 └── README.md
 
----
+## Dashboard Preview
+
+(Add screenshots here)
+
+## Machine Learning Results
+
+- Algorithm: Random Forest
+- Accuracy: XX%
+- Confusion Matrix
+- Classification Report
+
+## Project Structure
+
+## Installation
+
+pip install -r requirements.txt
 
 ## Author
 Shambhavi Gupta
 BCA(DS&AI)
-## Author
-
-Shambhavi Gupta
