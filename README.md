@@ -97,6 +97,18 @@ HR EMPLOYEES ANALYTICS
 
 pip install -r requirements.txt
 
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+## Machine Learning Model
+
+Algorithm:
+- Random Forest Classifier
+
+Accuracy:
+- 88%
+
 ## Author
 Shambhavi Gupta
 BCA(DS&AI)
